@@ -26,7 +26,9 @@
 
     /* Modules */
     "module": "commonjs",                                /* Specify what module code is generated. */
-    "rootDir": "./server",
+   // "rootDir": "./server",
+      "rootDir": "/opt/render/project/src",
+
     // "rootDir": "/opt/render/project/server",
     /* Specify the root folder within your source files. */
     // "moduleResolution": "node10",                     /* Specify how TypeScript looks up a file from a given module specifier. */
